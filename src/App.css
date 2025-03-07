@@ -22,6 +22,7 @@ body,
 #root {
   margin: 0;
   height: 100%;
+  width: 100%; /* was very narrow without this for some reason */
   overflow-x: hidden;
 }
 
